@@ -110,7 +110,7 @@ Smart_Email_Intelligence_System/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Smart_Email_Intelligence_System.git
+git clone https://github.com/dushh7/Smart_Email_Intelligence_System.git
 ```
 
 ### Navigate to Project
